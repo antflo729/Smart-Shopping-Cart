@@ -1,5 +1,5 @@
 # Smart-Shopping-Cart
-Read full paper: 
+Read full paper: [RAD-Shopping-Cart-IEEE-Final-Paper.pdf](https://github.com/antflo729/Smart-Shopping-Cart/files/11450398/RAD-Shopping-Cart-IEEE-Final-Paper.pdf)
 ## Abstract
 This shopping cart is an IOT shopping cart, which can follow the user through an aisle, and allow for product lookup through a touchscreen LCD. This project is useful since it simplifies the shopping experience for senior citizens and people with disabilities — both of whom struggle physically pushing around a shopping cart, as well as allowing for an accessible and straightforward item lookup at any point of time. The cart uses a network of three ESP8266 Wi-Fi modules to triangulate a user’s location. In addition, the cart uses HC-SRO4 Ultrasonic Sensors in the front, and the sides to allow for lane correction and object avoidance.
 
